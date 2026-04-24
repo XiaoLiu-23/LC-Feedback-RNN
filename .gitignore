@@ -11,3 +11,6 @@ venv/
 
 # mac
 .DS_Store
+
+# ignore results
+results/
